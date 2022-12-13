@@ -5,9 +5,7 @@ const cors = require('cors');
 const app = express();
 
 let data;
-
 app.use(cors());
-app.use(express.json());
 
 
 app.listen(3306, () => {
