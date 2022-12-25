@@ -16,7 +16,7 @@
             </ul>
     <h1>Screenshots of the above program: </h1>
 
-    <img src="[https://github.com/rajesh-ss/CORONO_updater/edit/master/Screenshot%20from%202022-12-03%2010-25-04.png](https://github.com/rajesh-ss/CORONO_updater/blob/master/Screenshot%20from%202022-12-03%2010-25-04.png)"></img>
+    <img src="https://github.com/rajesh-ss/CORONO_updater/blob/master/Screenshot%20from%202022-12-03%2010-25-04.png"></img>
     <img src=![](Screenshot%20from%202022-12-03%2010-25-14.png)> </img>
     <img src=![](Screenshot%20from%202022-12-03%2010-25-14.png)></img>
     <img src=![](Screenshot%20from%202022-12-03%2010-25-14.png)> </img>
