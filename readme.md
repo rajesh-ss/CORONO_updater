@@ -13,7 +13,7 @@
         <p>
             <ul>
                 <li>AWS-(RDS, EC2) for storing data</li>
-                <li> Database-(mysq)l</li>
+                <li> Database-(mysq)</li>
                 <li>Backend- NodeJS</li>
                 <li>Frontend- ReactJS</li>
                 
