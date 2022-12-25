@@ -15,7 +15,6 @@
                 <li>Frontend- ReactJS</li>
             </ul>
     <h1>Screenshots of the above program: </h1>
-![](Screenshot%20from%202022-12-03%2010-25-04.png)
 </body>
 </html>
 
