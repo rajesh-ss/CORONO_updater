@@ -9,19 +9,22 @@
 <body>
     <h1>Description: </h1>
     <p>This project lets people to add number of covid cases in their region. The Dashboard gives details like number of cases, region, number of death, number of deceased etc.</p>
-    <h1>tools used: </h1>
+    <h1>Tools used: </h1>
         <p>
             <ul>
                 <li>AWS-(RDS, EC2) for storing data</li>
+                <li> Database-(mysq)l</li>
                 <li>Backend- NodeJS</li>
                 <li>Frontend- ReactJS</li>
+                
             </ul>
         </p>
     <h1>Screenshots of the above program: </h1>
+    
 
+</body>
+</html>
     ![](Screenshot%20from%202022-12-03%2010-25-04.png)
     ![](Screenshot%20from%202022-12-03%2010-25-14.png)
     ![](Screenshot%20from%202022-12-03%2010-25-50.png)
     ![](Screenshot%20from%202022-12-03%2010-26-06.png)
-</body>
-</html>
