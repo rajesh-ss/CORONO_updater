@@ -16,10 +16,10 @@
             </ul>
     <h1>Screenshots of the above program: </h1>
 
-    <img src="![](Screenshot%20from%202022-12-03%2010-25-04.png)"></img>
-    <img src="![](Screenshot%20from%202022-12-03%2010-25-14.png)"> </img>
-    <img src="![](Screenshot%20from%202022-12-03%2010-25-14.png)"></img>
-    <img src="![](Screenshot%20from%202022-12-03%2010-25-14.png)"> </img>
+    <img src=![](Screenshot%20from%202022-12-03%2010-25-04.png)></img>
+    <img src=![](Screenshot%20from%202022-12-03%2010-25-14.png)> </img>
+    <img src=![](Screenshot%20from%202022-12-03%2010-25-14.png)></img>
+    <img src=![](Screenshot%20from%202022-12-03%2010-25-14.png)> </img>
 </body>
 </html>
     ![](Screenshot%20from%202022-12-03%2010-25-04.png)
